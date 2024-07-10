@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeGaHyun12&show_icons=true&theme=radical)
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"></a>
+<br/>
 💪 Skills
 <p>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
